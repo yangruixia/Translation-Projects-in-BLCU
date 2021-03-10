@@ -1,2 +1,7 @@
-# Translation (Localization Direction) 
-All my projects I have done when I majored in Translation (Localization Direction) in BLCU.
+# Projects in BLCU
+
+## 国家级大学生创新创业训练项目
+
+## 视频本地化
+
+## 网站本地化
